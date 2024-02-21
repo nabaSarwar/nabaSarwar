@@ -1,14 +1,14 @@
-<h1 align="center">Heyy✌️, I'm Naba Sarwar</h1>
+<h1 align="center">Heyaa💕, I'm Naba Sarwar</h1>
 <h3 align="center">A passionate Computer Engineer, who loves to explore ❤️</h3>
 <img align="right" alt"coding" width ="400" src="https://i.pinimg.com/originals/79/f7/97/79f7973b104b862de7a8efb527526ec8.gif">
 
-- 🌱 I’m currently learning **flutter & UI/UX**
+ 💻I’m currently learning **flutter & UI/UX**
 
-- 💬 Ask me about **Android and aesthetics**
+ 📱Ask me about **Android and UI designing**
 
-- 📫 How to reach me **naba.sarwar1@gmail.com**
+ 💌How to reach me **naba.sarwar1@gmail.com**
 
-- ⚡ Fun fact **People often call me a penguin ,coz m tiny & cute haha🐧**
+ ✨Fun fact **People often call me a penguin 🐧 ,coz m cute haha🌷**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
